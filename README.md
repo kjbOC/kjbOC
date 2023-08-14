@@ -12,4 +12,4 @@ About me
 ![](https://raw.githubusercontent.com/kjbOC/Account-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
-[Link to how I show my GitHub stats](https://github.com/jstrieb/github-stats)
+[How I show my GitHub stats](https://github.com/jstrieb/github-stats)
